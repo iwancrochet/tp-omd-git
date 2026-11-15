@@ -2,7 +2,7 @@
 public class Calculette {
 
     public static int addition(int a, int b) {
-        return a + b;
+        return a + b;//modification dev2
     }
 
     public static int soustraction(int a, int b) {
